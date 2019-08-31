@@ -1,0 +1,13 @@
+
+<nav>
+  <collection label="A">
+    <collection label="B">
+      <collection label="C">
+        <view name="abc" />
+        <view name="only_in_a" />
+      </collection>
+      <view name="xyz" />
+    </collection>
+  </collection>
+  <view label="W" />
+</nav>
